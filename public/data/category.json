@@ -1,0 +1,82 @@
+[
+    {
+        "image": "/assets/northindian.jpg",
+        "path": "north-indian"
+    },
+    {
+        "image": "/assets/pizza.jpg",
+        "path": "pizza"
+    },
+    {
+        "image": "/assets/noodles.jpg",
+        "path": "noodles"
+    },
+    {
+        "image": "/assets/pasta.jpg",
+        "path": "pasta"
+    },
+    {
+        "image": "/assets/parathas.jpg",
+        "path": "paratha"
+    },
+    {
+        "image": "/assets/biryani.jpg",
+        "path": "biryani"
+    },
+    {
+        "image": "/assets/burger.jpg",
+        "path": "burger"
+    },
+    {
+        "image": "/assets/cakes.jpg",
+        "path": "cakes"
+    },
+    {
+        "image": "/assets/chinnese.jpg",
+        "path": "chinese"
+    },
+    {
+        "image": "/assets/chole boltore.jpg",
+        "path": "chole-bature"
+    },
+    {
+        "image": "/assets/dosa.jpg",
+        "path": "dost"
+    },
+    {
+        "image": "/assets/ghulab jamun.jpg",
+        "path": "gulab-jamun"
+    },
+    {
+        "image": "/assets/ice cream.jpg",
+        "path": "ice-creams"
+    },
+    {
+        "image": "/assets/idili.jpg",
+        "path": "idli"
+    },
+    {
+        "image": "/assets/Khichdi.jpg",
+        "path": "khichdi"
+    },
+    {
+        "image": "/assets/Poori.jpg",
+        "path": "poori"
+    },
+    {
+        "image": "/assets/Pure_Veg.jpg",
+        "path": "pure-veg"
+    },
+    {
+        "image": "/assets/Rolls.jpg",
+        "path": "rolls"
+    },
+    {
+        "image": "/assets/Salad.jpg",
+        "path": "salad"
+    },
+    {
+        "image": "/assets/south_Indian.jpg",
+        "path": "south-indian"
+    }
+]
