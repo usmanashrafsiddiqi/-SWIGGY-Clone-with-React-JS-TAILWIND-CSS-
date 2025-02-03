@@ -20,12 +20,15 @@ const [slide,setslide]=useState(0);
 
 const nextslide= ()=>{
     console.log(categories.length);
-    if(categories.length -8 == slide) return false;
-    setslide(slide + 3 );
-
+if (slide < categories.length-8){
+  return setslide(slide + 3)
+}
+else{
+  return setslide(0)
+}
 };
 const prevslide=()=>{
-    if(slide  == 0) return false;
+    if(slide  == 0) return setslide(categories.length-6);
     setslide(slide - 3 )
  
 };

@@ -1,5 +1,6 @@
 import Category from "./components/Category"
 import Header from "./components/Header"
+import OnlineDelivery from "./OnlineDelivery"
 import Toprest from "./components/Toprest"
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
      <Header/>
      <Category/>
      <Toprest/>
+     <OnlineDelivery/>
     </>
   )
 }
