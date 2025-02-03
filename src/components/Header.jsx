@@ -48,7 +48,7 @@ export default function Header() {
 
     return (
         <>
-            <div className='black-overplay w-full h-full fixed duration-500' onClick={closesidemenu} style={{
+            <div className='black-overplay w-full h-full fixed duration-500 px-2' onClick={closesidemenu} style={{
                 opacity: toggle ? 1 : 0,
                 visibility: toggle ? "visible" : "hidden"
             }}>
